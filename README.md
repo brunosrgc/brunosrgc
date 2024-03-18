@@ -1,6 +1,6 @@
 <h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Bruno Sérgio</h1>
 
-- 📚 Systems for internet student.
+- 📚 Information Systems Student.
 - ☕ Java and Spring Boot enthusiast with a focus on backend development.
 - 💡 Exploring front-end basics and always eager to learn more.
 
